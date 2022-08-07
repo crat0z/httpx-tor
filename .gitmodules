@@ -1,0 +1,4 @@
+[submodule "python-nss"]
+    path = python-nss
+    url = https://github.com/crat0z/python-nss.git
+    branch = py_ssl-changes
